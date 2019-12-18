@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Kern | Christian N. Adames</title>
+    <link>cnadames.github.io/authors/david-kern/</link>
+      <atom:link href="cnadames.github.io/authors/david-kern/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Kern</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christian Adames 2019</copyright><lastBuildDate>Thu, 01 Nov 2018 02:32:28 -0500</lastBuildDate>
+    <image>
+      <url>cnadames.github.io/img/headshot.JPG</url>
+      <title>David Kern</title>
+      <link>cnadames.github.io/authors/david-kern/</link>
+    </image>
+    
+    <item>
+      <title>Empowerment Evaluation: A Case Study of Citywide Implementation Within an HIV Prevention Context</title>
+      <link>cnadames.github.io/publication/empowerment-evaluation-case-study/</link>
+      <pubDate>Thu, 01 Nov 2018 02:32:28 -0500</pubDate>
+      <guid>cnadames.github.io/publication/empowerment-evaluation-case-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

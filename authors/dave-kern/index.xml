@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dave Kern | Christian N. Adames</title>
+    <link>cnadames.github.io/authors/dave-kern/</link>
+      <atom:link href="cnadames.github.io/authors/dave-kern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dave Kern</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christian Adames 2019</copyright><lastBuildDate>Sat, 01 Dec 2018 02:56:37 -0500</lastBuildDate>
+    <image>
+      <url>cnadames.github.io/img/headshot.JPG</url>
+      <title>Dave Kern</title>
+      <link>cnadames.github.io/authors/dave-kern/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation capacity building—Results and reflections across two years of a multisite empowerment evaluation in an HIV prevention context</title>
+      <link>cnadames.github.io/publication/evaluation-capacity-building/</link>
+      <pubDate>Sat, 01 Dec 2018 02:56:37 -0500</pubDate>
+      <guid>cnadames.github.io/publication/evaluation-capacity-building/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

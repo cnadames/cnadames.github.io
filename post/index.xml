@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Christian N. Adames</title>
+    <link>cnadames.github.io/post/</link>
+      <atom:link href="cnadames.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christian Adames 2019</copyright>
+    <image>
+      <url>cnadames.github.io/img/headshot.JPG</url>
+      <title>Posts</title>
+      <link>cnadames.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>
