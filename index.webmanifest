@@ -1,6 +1,6 @@
 {
-  "name": "Christian Adames",
-  "short_name": "Christian Adames",
+  "name": "Christian N. Adames",
+  "short_name": "Christian N. Adames",
   "lang": "en-us",
   "theme_color": "#3f51b5",
   "background_color": "#3f51b5",
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/~cna2126/index.html/?utm_source=web_app_manifest"
+  "start_url": "/~cna2126/?utm_source=web_app_manifest"
 }
